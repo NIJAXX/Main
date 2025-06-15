@@ -1,7 +1,3 @@
-# Chronomètre en ligne
-Code utilisé dans la vidéo "Chronomètre en ligne".
-
-
 "Chronomètre en ligne"
 
 import pygame
